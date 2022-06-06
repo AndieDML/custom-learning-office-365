@@ -265,10 +265,10 @@
       "Source": "Microsoft",
       "SubCategories": [
         {
-          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-          "Name": "Outlook",
-          "Image": "images/categories/outlook.png",
-          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
+          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
+          "Name": "Microsoft 365 Basics",
+          "Image": "images/categories/office_basics.png",
+          "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []
@@ -346,10 +346,10 @@
           "SubCategories": []
         },
         {
-          "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
-          "Name": "Microsoft 365 Basics",
-          "Image": "images/categories/office_basics.png",
-          "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+          "Id": "46589138-0dde-4ea5-b9a1-313481a8eb06",
+          "Name": "Outlook",
+          "Image": "images/categories/outlook.png",
+          "TechnologyId": "c71d06be-133b-4c49-8fbf-404f7cc3c38f",
           "SubjectId": "",
           "Source": "Microsoft",
           "SubCategories": []

@@ -447,9 +447,37 @@
         }
       ]
     },
+     {
+      "Id": "1b1a6be7-2244-4fd0-a483-d672f7f8c192",
+      "Name": "BT Applications",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Custom",
+      "SubCategories": [
+        {
+          "Id": "66b1c2e8-2c4f-4546-87f8-26b6bc80e7ad",
+          "Name": "Windows",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "cf28607c-aeb1-4457-8d70-db1518f22340",
+          "Name": "Servicenow",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Customer",
+          "SubCategories": []
+        }
+      ]
+    },
     {
       "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "BT Applications",
+      "Name": "Adoption Tools",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",

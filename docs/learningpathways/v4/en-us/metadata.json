@@ -465,8 +465,35 @@
           "SubCategories": []
         },
         {
-          "Id": "cf28607c-aeb1-4457-8d70-db1518f22340",
+          "Id": "037a6cc9-a39b-41f5-b800-6754ce538e0d",
+          "Name": "Citrix",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+         {
+          "Id": "b3f86a0f-8c29-494c-88e6-7eb365e558ee",
           "Name": "Servicenow",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "c8e82c12-88c5-4e25-8d76-a84d570bf16c",
+          "Name": "FlexWork (Rotterdam Moerdijk and Le Havre offices only)",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "cf28607c-aeb1-4457-8d70-db1518f22340",
+          "Name": "Identity Management",
           "Image": "images/categories/recommended.png",
           "TechnologyId": "",
           "SubjectId": "",

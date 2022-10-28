@@ -499,6 +499,15 @@
           "SubjectId": "",
           "Source": "Customer",
           "SubCategories": []
+        },
+        {
+          "Id": "fcf07bcd-8b78-42d7-994d-1b43f8fe9ea0",
+          "Name": "Miro",
+          "Image": "images/categories/Miro.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
         }
       ]
     },

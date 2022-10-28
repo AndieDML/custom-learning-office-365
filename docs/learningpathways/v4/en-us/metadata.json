@@ -458,7 +458,7 @@
         {
           "Id": "66b1c2e8-2c4f-4546-87f8-26b6bc80e7ad",
           "Name": "Windows",
-          "Image": "Windows.png",
+          "Image": "images/categories/Windows.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",

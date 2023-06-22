@@ -473,15 +473,6 @@
           "Source": "Custom",
           "SubCategories": []
         },
-         {
-          "Id": "2bcae380-bce6-402e-9247-7ae3c9c95211",
-          "Name": "FreshService",
-          "Image": "images/categories/fs_logo.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Custom",
-          "SubCategories": []
-        },
         {
           "Id": "c8e82c12-88c5-4e25-8d76-a84d570bf16c",
           "Name": "FlexWork (Rotterdam Moerdijk and Le Havre offices only)",
@@ -504,6 +495,15 @@
           "Id": "fcf07bcd-8b78-42d7-994d-1b43f8fe9ea0",
           "Name": "Miro",
           "Image": "images/categories/Miro.png",
+          "TechnologyId": "",
+          "SubjectId": "",
+          "Source": "Custom",
+          "SubCategories": []
+        },
+        {
+          "Id": "2bcae380-bce6-402e-9247-7ae3c9c95211",
+          "Name": "FreshService",
+          "Image": "images/categories/fs_logo.png",
           "TechnologyId": "",
           "SubjectId": "",
           "Source": "Custom",
